@@ -1,6 +1,6 @@
-# Learning about Markdown
-
 <a name="readme-top"></a>
+
+# Learning about Markdown
 
 <!-- TABLE OF CONTENTS -->
 <details>
