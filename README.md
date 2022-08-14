@@ -77,8 +77,8 @@ in the file.
 ### Ordered List
 1. numbered
 2. list
-   1. indented (nested numbered item)
-      1. numberlist (nested numbered item)
+   1. indented (nested ordered item)
+      1. ordered list (nested ordered item)
 
 Markdown does not support letter list so use css. Special thanks to <a href="https://stackoverflow.com/questions/13366820/how-do-you-make-lettered-lists-using-markdown">fuhrmanator</a> for this code.
 
