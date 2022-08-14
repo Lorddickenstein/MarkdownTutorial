@@ -48,10 +48,10 @@
 </details>
 
 ## About the project
-This is a result of a crash course on how to create a basic markdown file. This follows two short youtube tutorials and an excerpt of a popular readme template.
+This is a result of a crash course on how to create a basic markdown file. This follows two short youtube tutorials and an excerpt from a popular readme template.
 
 ## Headings
-Headings are sections in your project that discussing specific things. The most common used headings are headings 1, 2, and 3.
+Headings are sections in your project that discusses specific parts. The most common used headings are headings 1, 2, and 3.
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -108,6 +108,10 @@ Markdown does not support letter list so use css. Special thanks to <a href="htt
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
+
+Sadly, github does not allow css to work due to the sanitization process which removes code that harm your projects such as `script` tags, inline-styles, and `class` or `id` attributes. For more information, visit this [link](https://github.com/orgs/community/discussions/22728).
+
+The above css code will not reflect on github, but will work on others.
 
 ## Adding In-Line URL
 On top of using the a-tag from the html we can use this method. Put the description in a bracket and add a opening and closing parenthesis. Inside the parenthesis is the url that you would like the viewer to go to.
