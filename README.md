@@ -51,6 +51,7 @@
 This is a result of a crash course on how to create a basic markdown file. This follows two short youtube tutorials and an excerpt of a popular readme template.
 
 ## Headings
+Headings are sections in your project that discussing specific things. The most common used headings are headings 1, 2, and 3.
 # Heading 1
 ## Heading 2
 ### Heading 3
